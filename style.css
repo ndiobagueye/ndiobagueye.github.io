@@ -1,0 +1,30 @@
+table
+{
+margin: auto;
+border-spacing: 40px;
+}
+.sousTitre{
+color: rgb(15, 15, 15);
+background-color: rgb(11, 204, 211);
+}
+span{
+color: rgb(192, 143, 69);
+}
+img {
+display: block;
+width: 100%;
+margin: auto;
+}
+.nomPrenom {
+border-style: solid;
+border-color: rgb(11, 204, 211);
+}
+.paragraphe
+{ 
+    width: 75%; /* Définit une largeur */
+    margin: 0 auto; /* Centre horizontalement */
+}
+.centrer
+{ 
+    margin: 0 auto; /* Centre horizontalement */
+}
